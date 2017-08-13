@@ -4,7 +4,7 @@ import LogoImg from '../../img/tualxaine logo.png'
 
 const centerStyle = {
   marginLeft: '5%',
-  width: '60%',
+  width: '40%',
   position: 'absolute',
   top: '26%',
 }
@@ -12,18 +12,19 @@ const centerStyle = {
 const titleBlockStyle = {
   backgroundColor: '#fff',
   padding: '10px',
+  maxWidth: '120%'
 }
 
 const navBlockStyle = {
   backgroundColor: '#fff',
   padding: '4px',
-  paddingRight: '15px',
+  paddingRight: '10px',
   marginRight: '15px',
   fontFamily: '"Roboto Condensed", cursive',
   fontWeight: 'bold',
   fontStyle: 'italic',
   color: 'unset',
-  fontSize: '40px',
+  fontSize: '30px',
   textDecoration: 'none',
 }
 
