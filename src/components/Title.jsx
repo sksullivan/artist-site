@@ -4,19 +4,17 @@ import LogoImg from '../../img/logo.png'
 
 const centerStyle = {
   marginLeft: '5%',
-  width: '40%',
   position: 'absolute',
   top: '26%',
 }
 
 const titleBlockStyle = {
-  // backgroundColor: '#fff',
   padding: '10px',
-  maxWidth: '120%'
+  maxWidth: '65%'
 }
 
 const navBlockStyle = {
-  // backgroundColor: '#fff',
+  float: 'left',
   padding: '0px',
   paddingRight: '7px',
   marginRight: '15px',
