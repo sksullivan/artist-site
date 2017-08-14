@@ -1,6 +1,6 @@
 import React from 'react';
 
-import LogoImg from '../../img/tualxaine logo.png'
+import LogoImg from '../../img/logo.png'
 
 const centerStyle = {
   marginLeft: '5%',
@@ -10,15 +10,15 @@ const centerStyle = {
 }
 
 const titleBlockStyle = {
-  backgroundColor: '#fff',
+  // backgroundColor: '#fff',
   padding: '10px',
   maxWidth: '120%'
 }
 
 const navBlockStyle = {
-  backgroundColor: '#fff',
-  padding: '4px',
-  paddingRight: '10px',
+  // backgroundColor: '#fff',
+  padding: '0px',
+  paddingRight: '7px',
   marginRight: '15px',
   fontFamily: '"Roboto Condensed", cursive',
   fontWeight: 'bold',

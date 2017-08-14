@@ -10,7 +10,7 @@ const style = {
 export default class Container extends React.Component {
   render() {
     return (
-      <div style={{/*{ ...style, backgroundImage: `url(${this.props.backgroundImage})` }*/}}>
+      <div style={{ ...style, backgroundImage: `url(${this.props.backgroundImage})` }}>
       	{this.props.children}
       </div>
     )
